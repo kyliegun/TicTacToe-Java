@@ -15,6 +15,9 @@ This game allows for three different modes of play:
 - ***Text-based Interface:*** The game runs entirely in the terminal with a simple text interface.
 - ***Game Logic:*** Includes winning conditions, turns, and a reset function.
 
+- TicTacToe.java allows for any game mode to be played on a 3 by 3 grid.
+- Upgrade.java allows the user to choose any game mode as well as any grid size from 3-20.
+
 ## Installation :hammer_and_wrench:
 1. Clone the repository.
       ```bash
